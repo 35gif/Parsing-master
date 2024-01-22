@@ -1,0 +1,6 @@
+D:\C#\Тесты\Parsing-master\Support\bin\Debug\Support.dll
+D:\C#\Тесты\Parsing-master\Support\bin\Debug\Support.pdb
+D:\C#\Тесты\Parsing-master\Support\obj\Debug\Support.csproj.AssemblyReference.cache
+D:\C#\Тесты\Parsing-master\Support\obj\Debug\Support.csproj.CoreCompileInputs.cache
+D:\C#\Тесты\Parsing-master\Support\obj\Debug\Support.dll
+D:\C#\Тесты\Parsing-master\Support\obj\Debug\Support.pdb
